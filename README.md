@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/guluma wakuma" target="blank"><img src="https://img.shields.io/twitter/follow/guluma wakuma?logo=twitter&style=for-the-badge" alt="guluma wakuma" /></a> </p>
 
-- 🌱 I’m currently learning PHP(Laravel-8) **JavaScript, CSS(SCSS), Bootstrap, PHP, React and Laravel**
+- 🌱 I’m currently working on **python, machine learning, deep learning, Django, Framework**
 
-- 🔭 I’m currently working on **Laravel-8 and PHP**
+- 🔭 I’m currently working on **Python Developer**
 
-- 🤝 I’m looking for help with **Getjob management system**
+- 🤝 I’m looking for help with **Ai assit and machine learning based project**
 
 - 👨‍💻 All of my projects are available at [Wait for a moment...](Wait for a moment...)
 
 - 📝 I regularly write articles on [I write personal and family life history](I write personal and family life history)
 
-- 💬 Ask me about **PHP basics and Advanced**
+- 💬 Ask me about **python, Machine learning,Deep learning**
 
 - 📫 How to reach me **gulumawakuma70@gmail.com and aristotlewar@gmail.com**
 
