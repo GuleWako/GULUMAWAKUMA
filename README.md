@@ -8,19 +8,19 @@
 
 <p align="left"> <a href="https://twitter.com/guluma wakuma" target="blank"><img src="https://img.shields.io/twitter/follow/guluma wakuma?logo=twitter&style=for-the-badge" alt="guluma wakuma" /></a> </p>
 
-- 🌱 I’m currently working on **python, machine learning, deep learning, Django, Framework**
+- 🌱 I’m currently working on **JavaScript, Angular, Nodejs, ExpressJs, Java, Springboot, Framework**
 
-- 🔭 I’m currently working on **Python Developer**
+- 🔭 I’m currently working on **Angular,Nodejs and Springboot**
 
-- 🤝 I’m looking for help with **Ai assit and machine learning based project**
+- 🤝 I’m looking for help with **Angular, NodeJs and Springboot and machine learning based project**
 
 - 👨‍💻 All of my projects are available at [Wait for a moment...](Wait for a moment...)
 
 - 📝 I regularly write articles on [I write personal and family life history](I write personal and family life history)
 
-- 💬 Ask me about **python, Machine learning,Deep learning**
+- 💬 Ask me about ** JavaScript, python, Machine learning,Deep learning**
 
-- 📫 How to reach me **gulumawakuma70@gmail.com and aristotlewar@gmail.com**
+- 📫 How to reach me **gulumawakuma3@gmail.com and gulumawakuma70@gmail.com**
 
 - 📄 Know about my experiences [wait...](wait...)
 
